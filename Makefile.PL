@@ -8,6 +8,7 @@ requires 'Any::Moose'       => '0.15';
 requires 'Barcode::Code128' => '2.01';
 
 tests 't/*.t';
+author_tests 'xt';
 
 test_requires 'Test::More';
 githubmeta;
