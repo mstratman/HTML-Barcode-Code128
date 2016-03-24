@@ -3,7 +3,7 @@ use Moo;
 extends 'HTML::Barcode::1D';
 use Barcode::Code128;
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 has '_code128' => (
     is      => 'ro',
