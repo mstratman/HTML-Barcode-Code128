@@ -3,7 +3,7 @@ name 'HTML-Barcode-Code128';
 license 'perl';
 all_from 'lib/HTML/Barcode/Code128.pm';
 
-requires 'HTML::Barcode'    => '0.09';
+requires 'HTML::Barcode'    => '0.13';
 requires 'Moo';
 requires 'Barcode::Code128' => '2.01';
 
