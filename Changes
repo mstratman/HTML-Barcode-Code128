@@ -1,5 +1,8 @@
 Revision history for HTML-Barcode-Code128
 
+0.13    Fri Mar 25 10:02:46 CDT 2016
+        - Distribution tweaks: Fixed RT #108940
+
 0.12    Thu Mar 24 15:45:35 CDT 2016
         - Switched from Any::Moose to Moo
 
